@@ -29,6 +29,7 @@ mkdir frontend
 cd backend
 npm init -y
 npm install express
+```
 
 ## License
 
